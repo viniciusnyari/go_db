@@ -15,5 +15,5 @@
 - describe products;
 - select * from products
 
-### Executando GO
+## Executando GO
 - go run main.go;
